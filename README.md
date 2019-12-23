@@ -1,2 +1,0 @@
-# greencity
-Real estate developers 
